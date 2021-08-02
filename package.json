@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-teaching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ho Yin",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.10.6"
+  }
+}
