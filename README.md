@@ -1,4 +1,3 @@
 # nodejs-beginner
-NodeJS入門課程
-
-https://www.youtube.com/playlist?list=PL91gvBcdjUtZVtROM5MY-DTlk4pfnqbm_
+NodeJS入門課程全Playlist
+https://bit.ly/3yvl5qB
