@@ -4,11 +4,15 @@
   "description": "",
   "main": "webServer.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" :"node webServer.js",
+    "start:log" :"node webServer.js >> data.log"
   },
   "author": "Ho Yin",
   "license": "ISC",
   "dependencies": {
-    "dayjs": "^1.10.6"
+    "dayjs": "^1.10.6",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
   }
 }
